@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://oagentedigital.github.io/influenceroculos",
     "dev": "vite",
     "build": "vite build",
     "deploy": "gh-pages -d dist"
@@ -14,6 +13,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "vite": "^5.4.0"
   }
 }
