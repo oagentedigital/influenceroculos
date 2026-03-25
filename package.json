@@ -1,10 +1,10 @@
 {
-  "homepage": "https://oagentedigital.github.io/influenceroculos",
   "name": "influenceroculos",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "homepage": "https://oagentedigital.github.io/influenceroculos",
     "dev": "vite",
     "build": "vite build",
     "deploy": "vite build"
