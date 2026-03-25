@@ -7,7 +7,7 @@
     "homepage": "https://oagentedigital.github.io/influenceroculos",
     "dev": "vite",
     "build": "vite build",
-    "deploy": "vite build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
